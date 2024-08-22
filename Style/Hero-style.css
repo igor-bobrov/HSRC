@@ -1,0 +1,14 @@
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url("../Img/HeroBack.jpg");
+}
+.hero-cont{
+    background-color: black;
+    color: white;
+    margin: 30px;
+    height: 200px;
+    width: 40%;
+    border-radius: 40px;
+}
